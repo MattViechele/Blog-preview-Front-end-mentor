@@ -28,7 +28,7 @@ This is the Mobile Version:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MattViechele/Blog-preview-Front-end-mentor)
+- Solution URL: [Github](https://github.com/MattViechele/Blog-preview-Front-end-mentor)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
